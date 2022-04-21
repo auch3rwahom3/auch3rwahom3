@@ -1,7 +1,7 @@
 Hi 👋 My name is Muthee Wahome (Aucher)
 =======================================
 
-Full-stack web developer (to be)
+Full-stack web engineer (to be)
 ------------------------
 
 * 🌍  I'm based in Canada
