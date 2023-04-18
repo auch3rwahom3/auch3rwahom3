@@ -1,11 +1,11 @@
 Hi 👋 My name is Muthee Wahome (Aucher)
 =======================================
 
-Full-stack web engineer (to be)
+Full-stack web engineer 
 ------------------------
 
 * 🌍  I'm based in Canada
-* 🧠  I'm learning web developing 2
+* 🧠  I'm learning web development
 * 🤝  I'm open to collaborating on Instagram/email.
 
 <a href="https://www.twitter.com/aucherwahom3" target="_blank" rel="noreferrer"><img
