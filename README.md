@@ -13,13 +13,9 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science student, graduating **2027**
+- 🎓 Computer Science student
 - 🧩 Full-stack developer — **React / Next.js** on the front end, **Node.js** on the back end
 - 📱 Cross-platform mobile builds with **React Native**
-- 🌍 I build products for the **Kenyan market** — M-Pesa (Daraja) payments, KES-first pricing, and local-context design
-- 💬 Ask me about full-stack web, mobile apps, and shipping side projects
-- 📫 Reach me on the socials below
-
 ---
 
 ### 🛠️ Tech Stack
@@ -67,18 +63,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/auch3rwahom3"><img height="165" src="https://github-readme-stats.vercel.app/api?username=auch3rwahom3&show_icons=true&title_color=0f172a&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" alt="GitHub Stats" /></a>
-<a href="https://github.com/auch3rwahom3"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=auch3rwahom3&langs_count=10&layout=compact&title_color=0f172a&text_color=0891b2&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
-<br/>
-
-<a href="https://github.com/auch3rwahom3"><img src="https://streak-stats.demolab.com/?user=auch3rwahom3&ring=0891b2&fire=0891b2&currStreakLabel=0f172a&sideLabels=0f172a&dates=0891b2&sideNums=0891b2&currStreakNum=0f172a&background=ffffff&hide_border=true" alt="GitHub Streak" /></a>
-
-</div>
 
 ---
 
