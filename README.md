@@ -1,12 +1,8 @@
 Hi 👋 My name is Muthee Wahome (Aucher)
 =======================================
 
-Full-stack web engineer 
+Software engineer 
 ------------------------
-
-* 🌍  I'm based in USA
-* 🧠  I'm a software developer
-* 🤝  I'm open to collaborating on Instagram/email.
 
 <a href="https://www.twitter.com/aucherwahom3" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/aucherwahom3?logo=twitter&style=for-the-badge&color=000000&labelColor=ffffff"
