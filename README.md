@@ -2,7 +2,7 @@
 
 # Hi 👋 My name is Muthee Wahome (Aucher)
 
-### Full-Stack Software Engineer
+### Software Engineer
 
 <a href="https://www.twitter.com/aucherwahom3" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/aucherwahom3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a" alt="Twitter Follow" /></a>
 <img src="https://komarev.com/ghpvc/?username=auch3rwahom3&label=Profile%20views&color=0891b2&style=for-the-badge" alt="Profile views" />
@@ -14,7 +14,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Computer Science student
-- 🧩 Full-stack developer — **React / Next.js** on the front end, **Node.js** on the back end
+- 🧩Software Engineer  — **React / Next.js** on the front end, **Node.js** on the back end
 - 📱 Cross-platform mobile builds with **React Native**
 ---
 
